@@ -1,0 +1,8 @@
+PROTO FourWheelsRobot [
+
+  ]
+  {
+    Robot {
+      # list of fields
+    }
+  }
